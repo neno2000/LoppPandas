@@ -5,7 +5,7 @@ from jinja2 import Environment, FileSystemLoader
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-# from weasyprint import HTML
+# from weasyprint import HTML *
 
 pd.set_option('display.height', 1000)
 pd.set_option('display.max_rows', 500)
